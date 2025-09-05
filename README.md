@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Olá, eu sou o Iago Barbosa!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
